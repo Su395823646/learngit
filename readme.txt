@@ -11,3 +11,5 @@ add at 10:04
 creating a new branch dev
 
 Creating a new branch is quick and simple. 
+
+and merge
